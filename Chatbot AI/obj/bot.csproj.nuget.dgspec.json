@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\noahw\\OneDrive\\Desktop\\bot\\bot.csproj": {}
+    "C:\\Users\\noahw\\OneDrive\\Desktop\\projects\\Chatbot AI\\bot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\noahw\\OneDrive\\Desktop\\bot\\bot.csproj": {
+    "C:\\Users\\noahw\\OneDrive\\Desktop\\projects\\Chatbot AI\\bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\noahw\\OneDrive\\Desktop\\bot\\bot.csproj",
+        "projectUniqueName": "C:\\Users\\noahw\\OneDrive\\Desktop\\projects\\Chatbot AI\\bot.csproj",
         "projectName": "bot",
-        "projectPath": "C:\\Users\\noahw\\OneDrive\\Desktop\\bot\\bot.csproj",
+        "projectPath": "C:\\Users\\noahw\\OneDrive\\Desktop\\projects\\Chatbot AI\\bot.csproj",
         "packagesPath": "C:\\Users\\noahw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\noahw\\OneDrive\\Desktop\\bot\\obj\\",
+        "outputPath": "C:\\Users\\noahw\\OneDrive\\Desktop\\projects\\Chatbot AI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\noahw\\AppData\\Roaming\\NuGet\\NuGet.Config",
