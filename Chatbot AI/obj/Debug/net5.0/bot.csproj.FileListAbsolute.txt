@@ -38,3 +38,11 @@ C:\Users\noahw\OneDrive\Desktop\projects\Chatbot AI\obj\Debug\net5.0\bot.csproj.
 C:\Users\noahw\OneDrive\Desktop\projects\Chatbot AI\obj\Debug\net5.0\bot.dll
 C:\Users\noahw\OneDrive\Desktop\projects\Chatbot AI\obj\Debug\net5.0\ref\bot.dll
 C:\Users\noahw\OneDrive\Desktop\projects\Chatbot AI\obj\Debug\net5.0\bot.pdb
+C:\Users\noahw\OneDrive\Desktop\projects\Chatbot AI\bin\Debug\net5.0\bot.exe
+C:\Users\noahw\OneDrive\Desktop\projects\Chatbot AI\bin\Debug\net5.0\bot.deps.json
+C:\Users\noahw\OneDrive\Desktop\projects\Chatbot AI\bin\Debug\net5.0\bot.runtimeconfig.json
+C:\Users\noahw\OneDrive\Desktop\projects\Chatbot AI\bin\Debug\net5.0\bot.runtimeconfig.dev.json
+C:\Users\noahw\OneDrive\Desktop\projects\Chatbot AI\bin\Debug\net5.0\bot.dll
+C:\Users\noahw\OneDrive\Desktop\projects\Chatbot AI\bin\Debug\net5.0\ref\bot.dll
+C:\Users\noahw\OneDrive\Desktop\projects\Chatbot AI\bin\Debug\net5.0\bot.pdb
+C:\Users\noahw\OneDrive\Desktop\projects\Chatbot AI\obj\Debug\net5.0\bot.genruntimeconfig.cache

@@ -10,7 +10,7 @@ namespace bot
            Console.Title = "Your AI friend";
            Console.ForegroundColor = ConsoleColor.DarkCyan;
            Console.WindowHeight = 20;
-           Console.WindowWidth = 40;
+           Console.WindowWidth = 80;
 
             Console.WriteLine("What's your name?");
 
@@ -23,7 +23,7 @@ namespace bot
             string input = Console.ReadLine();
 
 if (input.ToLower() == "good"){
-Console.WriteLine("That's good what are your plans for today");
+Console.WriteLine("That's good");
 }
 if (input.ToLower() == "bad")
 {
@@ -32,15 +32,14 @@ Console.ReadLine();
 Console.WriteLine("that dose not sound good");
 }
 
-     Console.WriteLine("lets try to make today better");
     Console.WriteLine("do you want to hear a joke");
 
-    string input = Console.ReadLine();
+    string input2 = Console.ReadLine();
 
-if (input.ToLower() == "yes"){
+if (input2.ToLower() == "yes"){
 Console.WriteLine("the world is not flat but its a square");
 }
-if (input.ToLower() == "no")
+if (input2.ToLower() == "no")
 {
 Console.WriteLine("to bad im still going to tell you the earth is not flat but its a square");
 
