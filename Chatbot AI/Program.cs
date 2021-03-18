@@ -41,12 +41,18 @@ Console.WriteLine("the world is not flat but its a square");
 }
 if (input2.ToLower() == "no")
 {
-Console.WriteLine("to bad im still going to tell you the earth is not flat but its a square");
+Console.WriteLine("to bad im still going to tell you the earth is not flat but its a square are mad i told you that");
 
-Console.ReadLine();
+string input3 = Console.ReadLine();
+
+if (input3.ToLower() == "yes"){
+Console.WriteLine("sorry i will try better next time");
+}
+if (input3.ToLower() == "no")
+{
+Console.WriteLine("ok cool");
 
 }
             Console.ReadKey();
-        }
+} }   }
     }
-}
