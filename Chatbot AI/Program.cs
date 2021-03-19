@@ -8,9 +8,13 @@ namespace bot
         {
 
            Console.Title = "Your AI friend";
+
            Console.ForegroundColor = ConsoleColor.DarkCyan;
+
            Console.WindowHeight = 20;
+
            Console.WindowWidth = 80;
+           
 
             Console.WriteLine("What's your name?");
 
@@ -46,13 +50,15 @@ Console.WriteLine("to bad im still going to tell you the earth is not flat but i
 string input3 = Console.ReadLine();
 
 if (input3.ToLower() == "yes"){
-Console.WriteLine("sorry i will try better next time");
+Console.WriteLine("sorry i will try better next time " + userName);
 }
 if (input3.ToLower() == "no")
 {
 Console.WriteLine("ok cool");
-
 }
-            Console.ReadKey();
+            Console.WriteLine("so whats up besides what you told me before");
+
+            Console.ReadLine();
+
 } }   }
     }
